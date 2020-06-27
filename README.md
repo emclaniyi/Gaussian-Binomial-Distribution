@@ -1,7 +1,7 @@
 # Gaussian-Binomial-Distribution
 
 # my_gnb_distributions
-gnb_distributions is a python library for finding the gaussian and binomail distribution of a dataset.
+gnb_distributions is a python library for finding the gaussian and binomial distribution of a dataset.
 
 ## installation
 use the package manager [pip] to install gnb_distribution
